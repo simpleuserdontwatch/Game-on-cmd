@@ -1,6 +1,6 @@
 # Game on cmd
 A simple game codded on python that playable though command prompt\
-No idea why i named the game "robloxcli.py"\
+No idea why i named the game "robloxcli.py"
 # Requirements
 - python 3 or other version
 - curses
