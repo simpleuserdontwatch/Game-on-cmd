@@ -9,3 +9,5 @@ No idea why i named the game "robloxcli.py"
 # Other
 The game throwing error because curses wont support any IDLE\
 If you see any other error then its a bug
+# Some questions
+- no questions here that somebody asked
